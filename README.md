@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo(a) ao meu github! 👋
 
-- 📖 estudante na Universidade Federal do ABC (UFABC) pretendendo seguir no campo das Ciências da Computação; 
+- 📖 Sou estudante na Universidade Federal do ABC (UFABC) pretendendo seguir no campo das Ciências da Computação; 
 - 💻 Atualmente estou estudando para aperfeiçoar minhas habilidade de programação em Python e JavaScript
 - 🐍 entusiasta de Python
 <br>
